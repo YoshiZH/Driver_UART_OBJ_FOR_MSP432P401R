@@ -4,12 +4,12 @@
  // Board:           MSP432P401R
  // Program version: CCS V10.4 TI
  // Company:         Texas Instruments
- // Description:     Definición de las funciones del UART
- // Authors:         Jesus Joshua Muñoz Pacheco & Daniel Fernando Gonzales Lara
+ // Description:     DefiniciÃ³n de las funciones del UART
+ // Authors:         Jesus Joshua MuÃ±oz Pacheco & Daniel Fernando Gonzales Lara
  // Updated:         11/2021
 
 
-#include "HVAC.h"
+#include "ENLACE.h"
 
 /**************************************************************************
 * Constructor: UART
