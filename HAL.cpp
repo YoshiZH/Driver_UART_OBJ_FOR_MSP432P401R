@@ -1,7 +1,6 @@
 //#include "Enlazador de alto y bajo nivel.h"
 //#include "../Drivers/BSP.h"
-uint32_t y,z ;
-bool x=0,cool=0, modo=0;
+
 
 void UART_initPD(){
     MyUART = new UART;
