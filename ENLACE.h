@@ -1,12 +1,4 @@
- // FileName:        HVAC.h
- // Dependencies:    None.
- // Processor:       MSP432
- // Board:           MSP432P401R
- // Program version: CCS V8.3 TI
- // Company:         Texas Instruments
- // Description:     Incluye librerías, define ciertas macros y significados así como llevar un control de versiones.
- // Authors:         José Luis Chacón M. y Jesús Alejandro Navarro Acosta.
- // Updated:         11/2018
+
 
 #ifndef _hvac_h_
 #define _hvac_h_
